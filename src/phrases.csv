@@ -1,0 +1,80 @@
+カテゴリID,カテゴリ名,絵文字,英語,日本語,日本語（ひらがな）,レベル
+biz_meeting,会議,💼,Shall we get started?,では、始めましょう。,では、はじめましょう。,1
+biz_meeting,会議,💼,Thank you for your time today.,本日はお時間をいただきありがとうございます。,ほんじつはおじかんをいただきありがとうございます。,2
+biz_meeting,会議,💼,Could you elaborate on that?,もう少し詳しく教えていただけますか？,もうすこしくわしくおしえていただけますか？,2
+biz_meeting,会議,💼,That makes sense.,なるほど、わかりました。,なるほど、わかりました。,1
+biz_meeting,会議,💼,I'll confirm and get back to you.,確認してからご連絡します。,かくにんしてからごれんらくします。,2
+biz_meeting,会議,💼,Let's move on to the next agenda item.,次の議題に移りましょう。,つぎのぎだいにうつりましょう。,3
+biz_meeting,会議,💼,Could we schedule a follow-up meeting?,改めてお打ち合わせをお願いできますか？,あらためておうちあわせをおねがいできますか？,3
+biz_meeting,会議,💼,I have a concern about this point.,この点について懸念があります。,このてんについてけねんがあります。,3
+biz_meeting,会議,💼,That's a great idea.,それは素晴らしいアイデアですね。,それはすばらしいあいであですね。,2
+biz_meeting,会議,💼,I'll take care of that.,そちらは私が対応します。,そちらはわたしがたいおうします。,2
+biz_meeting,会議,💼,Let me check my schedule.,スケジュールを確認させてください。,すけじゅーるをかくにんさせてください。,2
+biz_meeting,会議,💼,We're running out of time.,時間が押してきました。,じかんがおしてきました。,2
+biz_meeting,会議,💼,Let's wrap up here.,ここで一度まとめましょう。,ここでいちどまとめましょう。,2
+biz_meeting,会議,💼,I'll summarize the action items.,アクションアイテムをまとめます。,あくしょんあいてむをまとめます。,3
+biz_phone,電話・メール,📞,This is [name] speaking.,こちら[名前]です。,こちら[なまえ]です。,1
+biz_phone,電話・メール,📞,Thank you for calling.,お電話ありがとうございます。,おでんわありがとうございます。,1
+biz_phone,電話・メール,📞,Could I speak with Mr. Tanaka?,田中さんはいらっしゃいますか？,たなかさんはいらっしゃいますか？,2
+biz_phone,電話・メール,📞,He's away from his desk right now.,ただいま席を外しております。,ただいませきをはずしております。,2
+biz_phone,電話・メール,📞,May I take a message?,ご伝言を承りましょうか？,ごでんごんをうけたまわりましょうか？,2
+biz_phone,電話・メール,📞,I'll have him call you back.,折り返しご連絡させます。,おりかえしごれんらくさせます。,3
+biz_phone,電話・メール,📞,I apologize for the late reply.,返信が遅くなり申し訳ございません。,へんしんがおそくなりもうしわけございません。,3
+biz_phone,電話・メール,📞,Please find the attached document.,添付ファイルをご確認ください。,てんぷふぁいるをごかくにんください。,3
+biz_phone,電話・メール,📞,I look forward to your reply.,お返事をお待ちしております。,おへんじをおまちしております。,3
+biz_phone,電話・メール,📞,The line is breaking up.,声が途切れています。,こえがとぎれています。,2
+biz_phone,電話・メール,📞,Could you speak up a little?,もう少し大きな声でお話しいただけますか？,もうすこしおおきなこえでおはなしいただけますか？,3
+biz_negotiation,交渉・提案,🤝,Could you give us a discount?,値引きはできますか？,ねびきはできますか？,2
+biz_negotiation,交渉・提案,🤝,That's our best price.,それが最低価格です。,それがさいていかかくです。,2
+biz_negotiation,交渉・提案,🤝,We need to think it over.,検討させてください。,けんとうさせてください。,2
+biz_negotiation,交渉・提案,🤝,What's your budget?,ご予算はいくらですか？,ごよさんはいくらですか？,2
+biz_negotiation,交渉・提案,🤝,That's beyond our budget.,予算オーバーになります。,よさんおーばーになります。,2
+biz_negotiation,交渉・提案,🤝,Let's meet in the middle.,お互いに歩み寄りましょう。,おたがいにあゆみよりましょう。,3
+biz_negotiation,交渉・提案,🤝,We have a tight deadline.,締め切りが厳しい状況です。,しめきりがきびしいじょうきょうです。,3
+biz_negotiation,交渉・提案,🤝,We'd like to proceed with this.,こちらで進めたいと思います。,こちらですすめたいとおもいます。,3
+biz_presentation,プレゼン,📊,Today I'd like to talk about...,本日は〜についてお話しします。,ほんじつは〜についておはなしします。,2
+biz_presentation,プレゼン,📊,Let me show you the data.,データをご覧ください。,でーたをごらんください。,2
+biz_presentation,プレゼン,📊,We've achieved a 20% increase.,20%の増加を達成しました。,20ぱーせんとのぞうかをたっせいしました。,2
+biz_presentation,プレゼン,📊,The results exceeded our expectations.,結果は期待を上回りました。,けっかはきたいをうわまわりました。,3
+biz_presentation,プレゼン,📊,We're behind schedule.,スケジュールが遅れています。,すけじゅーるがおくれています。,2
+biz_presentation,プレゼン,📊,We're on track.,予定通り進んでいます。,よていどおりすすんでいます。,1
+biz_presentation,プレゼン,📊,Are there any questions?,ご質問はありますか？,ごしつもんはありますか？,1
+biz_presentation,プレゼン,📊,I'll look into that and report back.,調査してご報告します。,ちょうさしてごほうこくします。,3
+biz_client,接客・来客,🏢,Welcome. Do you have an appointment?,いらっしゃいませ。ご予約はございますか？,いらっしゃいませ。ごよやくはございますか？,2
+biz_client,接客・来客,🏢,Please have a seat.,どうぞおかけください。,どうぞおかけください。,1
+biz_client,接客・来客,🏢,Would you like something to drink?,お飲み物はいかがですか？,おのみものはいかがですか？,2
+biz_client,接客・来客,🏢,I'm so sorry to keep you waiting.,お待たせして申し訳ございません。,おまたせしてもうしわけございません。,3
+biz_client,接客・来客,🏢,Thank you for visiting us today.,本日はお越しいただきありがとうございます。,ほんじつはおこしいただきありがとうございます。,3
+biz_client,接客・来客,🏢,Please feel free to ask anything.,何でもお気軽にご質問ください。,なんでもおきがるにごしつもんください。,2
+biz_client,接客・来客,🏢,Thank you for your continued support.,いつもお世話になっております。,いつもおせわになっております。,3
+biz_trouble,謝罪,🙏,I sincerely apologize for the inconvenience.,ご不便をおかけして誠に申し訳ございません。,ごふべんをおかけしてまことにもうしわけございません。,3
+biz_trouble,謝罪,🙏,We take full responsibility.,全責任は弊社にございます。,すべてのせきにんはへいしゃにございます。,3
+biz_trouble,謝罪,🙏,We'll fix this immediately.,すぐに対応いたします。,すぐにたいおういたします。,2
+biz_trouble,謝罪,🙏,This won't happen again.,二度とこのようなことがないようにします。,にどとこのようなことがないようにします。,3
+biz_trouble,謝罪,🙏,We're looking into the cause.,原因を調査中です。,げんいんをちょうさちゅうです。,3
+biz_trouble,謝罪,🙏,We'll issue a refund.,返金いたします。,へんきんいたします。,2
+biz_trouble,謝罪,🙏,The delivery was delayed.,納品が遅れました。,のうひんがおくれました。,2
+greetings,挨拶,😊,Nice to meet you.,はじめまして。,はじめまして。,1
+greetings,挨拶,😊,Good morning.,おはようございます。,おはようございます。,1
+greetings,挨拶,😊,Good evening.,こんばんは。,こんばんは。,1
+greetings,挨拶,😊,How are you?,お元気ですか？,おげんきですか？,1
+greetings,挨拶,😊,It's been a while.,お久しぶりです。,おひさしぶりです。,2
+greetings,挨拶,😊,Thank you for everything today.,今日はありがとうございました。,きょうはありがとうございました。,2
+greetings,挨拶,😊,I look forward to working with you.,よろしくお願いします。,よろしくおねがいします。,2
+restaurant,レストラン,🍜,A table for two please.,二人です。,ふたりです。,1
+restaurant,レストラン,🍜,What do you recommend?,おすすめは何ですか？,おすすめはなんですか？,2
+restaurant,レストラン,🍜,I'll have this one.,これをください。,これをください。,1
+restaurant,レストラン,🍜,Check please.,お会計をお願いします。,おかいけいをおねがいします。,2
+restaurant,レストラン,🍜,This is delicious!,おいしい！,おいしい！,1
+restaurant,レストラン,🍜,Could I have some water please?,お水をいただけますか？,おみずをいただけますか？,2
+shopping,ショッピング,🛍️,How much is this?,これはいくらですか？,これはいくらですか？,1
+shopping,ショッピング,🛍️,I'll take it.,これにします。,これにします。,1
+shopping,ショッピング,🛍️,Can I try this on?,試着できますか？,しちゃくできますか？,2
+shopping,ショッピング,🛍️,Do you have it in black?,黒はありますか？,くろはありますか？,2
+shopping,ショッピング,🛍️,I'm just looking.,見ているだけです。,みているだけです。,2
+daily,日常,☀️,I don't understand.,わかりません。,わかりません。,1
+daily,日常,☀️,Please say it again.,もう一度言ってください。,もういちどいってください。,2
+daily,日常,☀️,Please speak more slowly.,もっとゆっくり話してください。,もっとゆっくりはなしてください。,2
+daily,日常,☀️,Where is the bathroom?,トイレはどこですか？,といれはどこですか？,1
+daily,日常,☀️,That's okay.,大丈夫ですよ。,だいじょうぶですよ。,1
+daily,日常,☀️,I'll think about it.,考えておきます。,かんがえておきます。,2
